@@ -20,17 +20,17 @@ const Products = () => {
                       <img
                         alt="ecommerce"
                         className="object-cover object-center w-full h-full block"
-                        src="/notfound.png"
+                        src="https://www.venus-india.com/products/hammers/machinist-hammer-V209.jpg"
                       />
                     </a>
                     <div className="mt-4">
                       <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">
-                        CATEGORY
+                        Hand Tools
                       </h3>
                       <h2 className="text-gray-900 title-font text-lg font-medium">
-                        The Catalyzer
+                        The Shooting Star
                       </h2>
-                      <p className="mt-1">$16.00</p>
+                      <p className="mt-1">₹500.00</p>
                     </div>
                   </div>
                 </Link>
